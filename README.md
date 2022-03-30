@@ -1,6 +1,6 @@
 # FreshMart
 
-A new Flutter project.
+Flutter project FreshMart
 
 ## Getting Started
 
